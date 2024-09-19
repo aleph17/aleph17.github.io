@@ -5,30 +5,46 @@ table {
     padding: 0;
 }
 table tr {
-    border-top: 1px solid #cccccc;
-    background-color: white;
+    // border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+    // background-color: white;
     margin: 0;
     padding: 0;
 }
-table tr:nth-child(2n) {
-    background-color: #f8f8f8;
-}
-table tr th {
-    font-weight: bold;
-    border: 1px solid #cccccc;
-    text-align: left;
-    margin: 0;
-    padding: 6px 13px;
-}
+// table tr:nth-child(2n) {
+//     // background-color: #f8f8f8;
+// }
+// table tr th {
+//     font-weight: bold;
+//     border: 1px solid #cccccc;
+//     text-align: left;
+//     margin: 0;
+//     padding: 6px 13px;
+// }
+// table tr td {
+//     border: 1px solid #cccccc;
+//     text-align: left;
+//     margin: 0;
+//     padding: 6px 13px;
+// }
+// table tr th :first-child, table tr td :first-child {
+//     margin: 0;
+// }
+// table tr th :last-child, table tr td :last-child {
+//     margin: 0;
+// }
+
 table tr td {
-    border: 1px solid #cccccc;
     text-align: left;
-    margin: 0;
-    padding: 6px 13px;
+    padding: 8px 13px; /* Increased padding for a more spaced layout */
+    border: none; /* Removing individual cell borders */
 }
-table tr th :first-child, table tr td :first-child {
-    margin: 0;
+
+table tr td a {
+    color: red; /* Ensure that links follow the red style */
+    text-decoration: none; /* Remove underline from links */
 }
-table tr th :last-child, table tr td :last-child {
-    margin: 0;
+
+table tr td a:hover {
+    text-decoration: underline; /* Underline on hover for clarity */
 }

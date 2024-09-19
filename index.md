@@ -87,11 +87,11 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 <table>
   <tr>
     <td>Sep 2024</td>
-    <td>Participation in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/" style="color:red">DeepFake Hackaton</a> [<a href="https://deepfake-minihackaton.my.canva.site/" style="color:red">slides</a>]</td>
+    <td>Participation in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/">DeepFake Hackaton</a> [<a href="https://deepfake-minihackaton.my.canva.site/">slides</a>]</td>
   </tr>
   <tr>
     <td>Jun 2024</td>
-    <td>Started Summer Research Internship in <a href="https://nlp.epfl.ch" style="color:red">NLP Lab</a> on Multilingual Model Training project by <a href="https://www.swiss-ai.org" style="color:red">Swiss AI Initiative</a></td>
+    <td>Started Summer Research Internship in <a href="https://nlp.epfl.ch">NLP Lab</a> on Multilingual Model Training project by <a href="https://www.swiss-ai.org">Swiss AI Initiative</a></td>
   </tr>
   <tr>
     <td>May 2024</td>
@@ -111,6 +111,6 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
   </tr>
   <tr>
     <td>Feb 2024</td>
-    <td>Started Student Research Assistantship in <a href="https://www.epfl.ch/labs/dhlab/" style="color:red">DHLAB</a> on LLM QA system project by <a href="https://www.epfl.ch/research/domains/venice-time-machine/" style="color:red">Venice Time Machine</a></td>
+    <td>Started Student Research Assistantship in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a> on LLM QA system project by <a href="https://www.epfl.ch/research/domains/venice-time-machine/">Venice Time Machine</a></td>
   </tr>
 </table>
