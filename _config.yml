@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://jakhongir0103.github.io"
-footer_text: "Fin"
+footer_text: "End"
 
 sass:
     style: compressed

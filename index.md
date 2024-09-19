@@ -66,7 +66,7 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 ## <span class="section-bar"></span> Relevant Courseworks
 1. **CS-612.** Topics in NLP. [[webpage](https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612)]
 2. **CS-552.** Modern NLP. [[webpage](https://edu.epfl.ch/coursebook/en/modern-natural-language-processing-CS-552)]
-3. **CS-456.** Artificial Neural Networks and Reinforcement Learning** [[github](https://github.com/Jakhongir0103/Artificial-NN_and_RL), [webpage](https://edu.epfl.ch/coursebook/en/deep-reinforcement-learning-CS-456)]
+3. **CS-456.** Artificial Neural Networks and Reinforcement Learning. [[github](https://github.com/Jakhongir0103/Artificial-NN_and_RL), [webpage](https://edu.epfl.ch/coursebook/en/deep-reinforcement-learning-CS-456)]
 4. **CS-433.** Machine Learning. [[github](https://github.com/Jakhongir0103/Machine-Learning_EPFL), [webpage](https://www.epfl.ch/labs/mlo/machine-learning-cs-433-2023/)]
 5. **CS-401.** Applied Data Analysis. [[github](https://github.com/Jakhongir0103/Applied-Data-Analysis_EPFL), [webpage](https://epfl-ada.github.io/teaching/fall2023/cs401/)]
 6. **EE-451.** Image Analysis and Pattern Recognition. [[webpage](https://edu.epfl.ch/coursebook/en/image-analysis-and-pattern-recognition-EE-451)]
