@@ -25,15 +25,15 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 
 ## <span class="section-bar"></span> Education
 
-1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. 2023-Present
-2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. 2019-2023
+1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present</span>
+2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">2019-2023</span>
 
 ---
 
 ## <span class="section-bar"></span> Experience
 
-1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">June, 2024 - Present.</span> </br> Multilingual Model Training
-2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">February, 2024 - September, 2024.</span> </br> Text-to-SQL system and LLM agents development.
+1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">June, 2024 - Present.</span> <br> Multilingual Model Training
+2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">February, 2024 - September, 2024.</span> <br> Text-to-SQL system and LLM agents development.
 3. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">October, 2022 - May, 2023.</span>
 4. **IoT Engineer**. [LINKS](https://linksfoundation.com/en/). Italy. <span class="dates">October, 2021 - February, 2022.</span>
 
@@ -46,12 +46,12 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 ---
 
 ## <span class="section-bar"></span> Projects
-1. **LLM Training with SFT, DPO, and RAG**. Instruction-Tuned Galactica-1.3B model on Scientivic MCQA task using SFT and DPO, and further tuned in the RAG settings. [[report](https://github.com/Jakhongir0103/sft-dpo-rag-training/blob/main/pdfs/report.pdf), [blog]()] </br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #RAG, #NLP*
-2. **Coin Detection and Classification**. A computer vision project where we implemented the segmentation and classification of the coins in the given images. [[code](https://github.com/Jakhongir0103/Coin-segmentation-and-classification), [slides](https://github.com/Jakhongir0103/Coin-segmentation-and-classification/blob/main/slides.pdf), [blog]()] </br> *#ComputerVision, #DeepLearning, #MachineLearning, #CNN*
-3. **Reinforcement Learning on Mountain Car Environment**. For the [Mountain Car](https://www.gymlibrary.dev/environments/classic_control/mountain_car/) environment, we implemented Dyna, DQN algorithms, and the extensions of DQN with heuristic rewards. [[code](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning), [report](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning/blob/main/pdf/report.pdf), [blog]()] </br> *#ReinforcementLearning, #DeepLearning, #MachineLearning*
-4. **YouTube Analysis**. Causal Analysis of Tech channels' progress on YouTube using the videos published between May 2005 and October 2019. [[code](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel), [datastory](https://jakhongir0103.github.io/datastory/), [blog]()] </br> *#DataAnalysis, #CausalAnalysis, #MachineLearning, #DataVisualization*
-5. **LLM Fine-Tuning**. Fine-tuned 3 LLMs (Mistral-7B, Llama-2-7B, Phi-1.5) on a dataset from X for the [stance detection](https://paperswithcode.com/task/stance-detection) task. [[report](https://github.com/Jakhongir0103/Machine-Learning_EPFL/blob/master/projects/project2/project2_report.pdf), [blog]()] </br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #NLP*
-6. **Cardiovascular Diseases Prediction**. Implemented standard ML algorithms using native python libraries and numpy for Classification taks. [[code](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction), [report](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction/blob/main/pdfs/project1_report.pdf), [blog]()] </br> *#MachineLearning, #Classification*
+1. **LLM Training with SFT, DPO, and RAG**. Instruction-Tuned Galactica-1.3B model on Scientivic MCQA task using SFT and DPO, and further tuned in the RAG settings. [[report](https://github.com/Jakhongir0103/sft-dpo-rag-training/blob/main/pdfs/report.pdf), [blog]()] <br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #RAG, #NLP*
+2. **Coin Detection and Classification**. A computer vision project where we implemented the segmentation and classification of the coins in the given images. [[code](https://github.com/Jakhongir0103/Coin-segmentation-and-classification), [slides](https://github.com/Jakhongir0103/Coin-segmentation-and-classification/blob/main/slides.pdf), [blog]()] <br> *#ComputerVision, #DeepLearning, #MachineLearning, #CNN*
+3. **Reinforcement Learning on Mountain Car Environment**. For the [Mountain Car](https://www.gymlibrary.dev/environments/classic_control/mountain_car/) environment, we implemented Dyna, DQN algorithms, and the extensions of DQN with heuristic rewards. [[code](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning), [report](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning/blob/main/pdf/report.pdf), [blog]()] <br> *#ReinforcementLearning, #DeepLearning, #MachineLearning*
+4. **YouTube Analysis**. Causal Analysis of Tech channels' progress on YouTube using the videos published between May 2005 and October 2019. [[code](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel), [datastory](https://jakhongir0103.github.io/datastory/), [blog]()] <br> *#DataAnalysis, #CausalAnalysis, #MachineLearning, #DataVisualization*
+5. **LLM Fine-Tuning**. Fine-tuned 3 LLMs (Mistral-7B, Llama-2-7B, Phi-1.5) on a dataset from X for the [stance detection](https://paperswithcode.com/task/stance-detection) task. [[report](https://github.com/Jakhongir0103/Machine-Learning_EPFL/blob/master/projects/project2/project2_report.pdf), [blog]()] <br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #NLP*
+6. **Cardiovascular Diseases Prediction**. Implemented standard ML algorithms using native python libraries and numpy for Classification taks. [[code](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction), [report](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction/blob/main/pdfs/project1_report.pdf), [blog]()] <br> *#MachineLearning, #Classification*
 
 ---
 
