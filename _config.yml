@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://jakhongir0103.github.io"
 footer_text: "Fin"
 
@@ -20,7 +20,5 @@ nav:
    link: "/index"
  - name: "Blogs"
    link: "/blogs"
- - name: "Blogs2"
-   link: "/posts/blogs"
  - name: "Resume"
    link: "/resume.pdf"

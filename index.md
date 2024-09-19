@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 ## <span class="section-bar"></span> About Me
 
