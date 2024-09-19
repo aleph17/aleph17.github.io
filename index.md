@@ -5,119 +5,110 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [IDIAP](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://www.idiap.ch/~lvdplas/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
+I am currently a **MSc. student** at [EPFL](https://epfl.ch) in Data Science and a **Research Student Assistant** at [NLP lab](https://nlp.epfl.ch) supervised by prof. [Antoine Bosselut](https://atcbosselut.github.io/). 
 
-Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science.
+Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) as a **Research Student Assistant** supervised by [Frédéric Kaplan](https://people.epfl.ch/frederic.kaplan?lang=en). In the past, I completed my BSc. in Computer Engineering at [Politecnico di Torino](https://www.google.com/search?client=safari&rls=en&q=politecnico+di+torino&ie=UTF-8&oe=UTF-8) and have done a 6 month internship as a **Data Analyst** at [Fater](https://www.fatergroup.com/en) supervised by [Salvatore Croce](https://www.researchgate.net/profile/Salvatore-Croce).
 
-
---- 
-
-## <span class="section-bar"></span> Research Interests
-
-My interests broadly lie within the nature of **robust artificial intelligence, language, cognitive science and mind**. Currently, my research focuses on **computational creativity**. I am in addition exploring neurosymbolic AI, reasoning, compositionality, abstraction/analogy, linguistically motivated NLP and knowledge-driven, cognitive-model-based AI.  
-
-
---- 
-
-## <span class="section-bar"></span> Publications
-1. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
-<span class="authors">Silin Gao, **Mete Ismayilzada**, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut</span><br/>
-<span class="conference">ACL 2024</span><br/>
-[[paper](https://arxiv.org/abs/2402.17011)]
-
-2. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
-<span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
-<span class="conference">ACL 2024 Findings</span><br/>
-[[paper](https://arxiv.org/abs/2401.03183)]
-
-3. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
-<span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
-<span class="conference">EACL 2024</span><br/>
-[[paper](https://arxiv.org/abs/2304.01904)]
-
-4. **Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
-<span class="authors">Beatriz Borges, Negar Foroutan, Deniz Bayazit, Syrielle Montariol, Mohammadreza Banaei, Alireza Sakhaeirad, Philippe Servant, Anna Sotnikova, Tanya Nazaretsky, Seyed Parsa Neshaei, Jibril Frej, Angelika Romanou, Gail Weiss, Sepideh Mamooler, Zeming Chen, Simin Fan, Silin Gao, **Mete Ismayilzada**, Debjit Paul, Tanja Käser, Antoine Bosselut</span><br/>
-<span class="conference">AAAI 2024</span><br/>
-[[paper](https://openreview.net/pdf?id=2vo9fAgZw3)]
-
-5. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
-<span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
-<span class="conference">EMNLP 2023 (Oral)</span><br/>
-[[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
-
-6. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
-<span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
-<span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
-[[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
-
----
+<p align="left">
+  <a href="mailto:jakhongir.saydaliev@epfl.ch" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width:20px; height:20px;" />
+  </a>
+  <a href="https://github.com/Jakhongir0103" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width:20px; height:20px;" />
+  </a>
+  <a href="https://linkedin.com/in/jakhongir-saydaliev-0103" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width:20px; height:20px;" />
+  </a>
+</p>
 
 ## <span class="section-bar"></span> Education
 
-1. **Ph.D in Computer Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present.</span>
-2. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2021-2023.</span>
-3. **Bachelor's in Computer Science**. University of Waterloo. Waterloo, Canada. <span class="dates">2012-2016.</span>
-4. **Bachelor's in Computer Science**. Baku State University. Baku, Azerbaijan. <span class="dates">2010-2012 (incomplete)</span>
+1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. 2023-Present
+2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. 2019-2023
+
+---
+
+## <span class="section-bar"></span> Experience
+
+1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">June, 2024 - Present.</span> </br> Multilingual Model Training
+2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">February, 2024 - September, 2024.</span> </br> Text-to-SQL system and LLM agents development.
+3. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">October, 2022 - May, 2023.</span>
+4. **IoT Engineer**. [LINKS](https://linksfoundation.com/en/). Italy. <span class="dates">October, 2021 - February, 2022.</span>
 
 --- 
 
-## <span class="section-bar"></span> Research Experience
-
-1. **Research Assistant**. IDIAP. Martigny, Switzerland. <span class="dates">2023-Present.</span>
-2. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
-3. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
-
----
-
 ## <span class="section-bar"></span> Teaching Experience
 
-1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024.</span>
-2. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
-2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
-
----
-
-## <span class="section-bar"></span> Engineering Experience
-
-1. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021.</span>
-2. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
-3. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
-4. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
-5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
-6. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
-7. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
-
----
-
-## <span class="section-bar"></span> Service
-
-2. **Reviewer**. SEM. <span class="dates">Apr 2024.</span>
-2. **Reviewer**. ACL ARR. <span class="dates">Feb 2024.</span>
-3. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
-4. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
+1. **Student Teaching Assistant**. [Applied Data Analysis](https://epfl-ada.github.io/teaching/fall2024/cs401/). EPFL. <span class="dates">Fall 2024.</span>
 
 ---
 
 ## <span class="section-bar"></span> Projects
-1. **Parrot**. Educational toolkit for interaction with OpenAI models. [[code]](https://github.com/epfl-nlp/parrot)
-2. **Mini-Pytorch**. From scratch implementation of (mini) pytorch autograd and several core modules. [[code](https://github.com/mismayil/mini-pytorch)]
-3. **Words and Personalities**. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
-3. **Differentially Private Random Forest Classifier**. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
+1. **LLM Training with SFT, DPO, and RAG**. Instruction-Tuned Galactica-1.3B model on Scientivic MCQA task using SFT and DPO, and further tuned in the RAG settings. [[report](https://github.com/Jakhongir0103/sft-dpo-rag-training/blob/main/pdfs/report.pdf), [blog]()] </br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #RAG, #NLP*
+2. **Coin Detection and Classification**. A computer vision project where we implemented the segmentation and classification of the coins in the given images. [[code](https://github.com/Jakhongir0103/Coin-segmentation-and-classification), [slides](https://github.com/Jakhongir0103/Coin-segmentation-and-classification/blob/main/slides.pdf), [blog]()] </br> *#ComputerVision, #DeepLearning, #MachineLearning, #CNN*
+3. **Reinforcement Learning on Mountain Car Environment**. For the [Mountain Car](https://www.gymlibrary.dev/environments/classic_control/mountain_car/) environment, we implemented Dyna, DQN algorithms, and the extensions of DQN with heuristic rewards. [[code](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning), [report](https://github.com/Jakhongir0103/mountain-car-reinforcement-learning/blob/main/pdf/report.pdf), [blog]()] </br> *#ReinforcementLearning, #DeepLearning, #MachineLearning*
+4. **YouTube Analysis**. Causal Analysis of Tech channels' progress on YouTube using the videos published between May 2005 and October 2019. [[code](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel), [datastory](https://jakhongir0103.github.io/datastory/), [blog]()] </br> *#DataAnalysis, #CausalAnalysis, #MachineLearning, #DataVisualization*
+5. **LLM Fine-Tuning**. Fine-tuned 3 LLMs (Mistral-7B, Llama-2-7B, Phi-1.5) on a dataset from X for the [stance detection](https://paperswithcode.com/task/stance-detection) task. [[report](https://github.com/Jakhongir0103/Machine-Learning_EPFL/blob/master/projects/project2/project2_report.pdf), [blog]()] </br> *#DeepLearning, #MachineLearning, #LLM, #FineTuning, #NLP*
+6. **Cardiovascular Diseases Prediction**. Implemented standard ML algorithms using native python libraries and numpy for Classification taks. [[code](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction), [report](https://github.com/Jakhongir0103/Cardiovascular-Diseases-Prediction/blob/main/pdfs/project1_report.pdf), [blog]()] </br> *#MachineLearning, #Classification*
 
 ---
 
-## <span class="section-bar"></span> Blogposts
-1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
+## <span class="section-bar"></span> Mini Projects (less than a week)
+1. **Gender Classification**. [[code](github.com/Jakhongir0103/Gender_classification_model)] (#DeepLearning, #Classification)
+2. **Pneumonia Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/Pneumonia_recognition.ipynb)] (#DeepLearning, #Classification)
+3. **Customer Satisfaction Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/Airline_customer_satisfaction.ipynb)] (#MachineLearning, #Classification)
+4. **Ticket Price Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/airplane_ticket_price_prediction.ipynb)] (#MachineLearning, #Regression)
 
 ---
 
-## <span class="section-bar"></span> Hobbies
-In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano and dombra](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [international art films](https://boxd.it/ggyee).
+## <span class="section-bar"></span> Relevant Courseworks
+1. **CS-612.** Topics in NLP. [[webpage](https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612)]
+2. **CS-552.** Modern NLP. [[webpage](https://edu.epfl.ch/coursebook/en/modern-natural-language-processing-CS-552)]
+3. **CS-456.** Artificial Neural Networks and Reinforcement Learning** [[github](https://github.com/Jakhongir0103/Artificial-NN_and_RL), [webpage](https://edu.epfl.ch/coursebook/en/deep-reinforcement-learning-CS-456)]
+4. **CS-433.** Machine Learning. [[github](https://github.com/Jakhongir0103/Machine-Learning_EPFL), [webpage](https://www.epfl.ch/labs/mlo/machine-learning-cs-433-2023/)]
+5. **CS-401.** Applied Data Analysis. [[github](https://github.com/Jakhongir0103/Applied-Data-Analysis_EPFL), [webpage](https://epfl-ada.github.io/teaching/fall2023/cs401/)]
+6. **EE-451.** Image Analysis and Pattern Recognition. [[webpage](https://edu.epfl.ch/coursebook/en/image-analysis-and-pattern-recognition-EE-451)]
+7. **EE-556.** Mathematics of data: from theory to computation. [[webpage](https://edu.epfl.ch/coursebook/en/mathematics-of-data-from-theory-to-computation-EE-556)]
+8. **CS-423.** Distributed Information Systems. [[webpage](https://edu.epfl.ch/coursebook/en/distributed-information-systems-CS-423)]
 
 ---
 
+## <span class="section-bar"></span> External Activities
+1. **[Jon and John](https://www.youtube.com/@jonandjohn7726), YouTube**. A YouTube channel about Italian Culture, and studying in Italy. Now I mostly do interviews with the people in AI.
+2. **[Jon and John](https://t.me/Study_in_Italy_SH), Telegram**. An Uzbek community I co-founded back in Italy to bring together Uzbek Students in Italy.
+3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now ran by Muslimjon Nabijonov.
+4. **[Jakhongir Saydaliev](t.me/jakhongir_saydaliev), Telegram**. A personal Telegram channel where I share my thoughts, experiences and knowledge (in Uzbek).
 
-## <span class="section-bar"></span> Contact
-1. [mismayilza [at] gmail [dot] com](mailto:)
-2. [github](https://github.com/mismayil)
-3. [linkedin](https://www.linkedin.com/in/mismayilzada)
+---
+
+## <span class="section-bar"></span> News
+<table>
+  <tr>
+    <td>Sep 2024</td>
+    <td>Participation in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/" style="color:red">DeepFake Hackaton</a> [<a href="https://deepfake-minihackaton.my.canva.site/" style="color:red">slides</a>]</td>
+  </tr>
+  <tr>
+    <td>Jun 2024</td>
+    <td>Started Summer Research Internship in <a href="https://nlp.epfl.ch" style="color:red">NLP Lab</a> on Multilingual Model Training project by <a href="https://www.swiss-ai.org" style="color:red">Swiss AI Initiative</a></td>
+  </tr>
+  <tr>
+    <td>May 2024</td>
+    <td>Presented my LLM Agents project in DHLAB</td>
+  </tr>
+  <tr>
+    <td>Apr 2024</td>
+    <td>Participation in LLM Hackathon</td>
+  </tr>
+  <tr>
+    <td>Apr 2024</td>
+    <td>Presented my text-to-SQL project in DHLAB</td>
+  </tr>
+  <tr>
+    <td>Mar 2024</td>
+    <td>Participation in AMLD 2024</td>
+  </tr>
+  <tr>
+    <td>Feb 2024</td>
+    <td>Started Student Research Assistantship in <a href="https://www.epfl.ch/labs/dhlab/" style="color:red">DHLAB</a> on LLM QA system project by <a href="https://www.epfl.ch/research/domains/venice-time-machine/" style="color:red">Venice Time Machine</a></td>
+  </tr>
+</table>
