@@ -87,7 +87,7 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 <table>
   <tr>
     <td>Sep 2024</td>
-    <td>Participation in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/">DeepFake Hackaton</a> [<a href="https://deepfake-minihackaton.my.canva.site/">slides</a>]</td>
+    <td><a href="https://deepfake-minihackaton.my.canva.site/">Participated</a> in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/">DeepFake Hackaton</a></td>
   </tr>
   <tr>
     <td>Jun 2024</td>
@@ -95,19 +95,19 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
   </tr>
   <tr>
     <td>May 2024</td>
-    <td>Presented my LLM Agents project in DHLAB</td>
+    <td>Presented my LLM Agents project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
   </tr>
   <tr>
     <td>Apr 2024</td>
-    <td>Participation in LLM Hackathon</td>
+    <td><a href="https://github.com/Jakhongir0103/Coding_interview_bot">Participated</a> in <a href="https://www.linkedin.com/posts/lauzhack_hackathon-llms-genai-activity-7189548347953750016-CaxD/">LLM Hackathon</a></td>
   </tr>
   <tr>
     <td>Apr 2024</td>
-    <td>Presented my text-to-SQL project in DHLAB</td>
+    <td>Presented my text-to-SQL project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
   </tr>
   <tr>
     <td>Mar 2024</td>
-    <td>Participation in AMLD 2024</td>
+    <td><a href="https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0">Participated</a> in <a href="https://2024.appliedmldays.org">AMLD 2024</a></td>
   </tr>
   <tr>
     <td>Feb 2024</td>
