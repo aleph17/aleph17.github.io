@@ -21,6 +21,8 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
   </a>
 </p>
 
+---
+
 ## <span class="section-bar"></span> Education
 
 1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. 2023-Present
