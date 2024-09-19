@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "index.md"
+   link: "./index.md"
  - name: "Blogs"
-   link: "posts/blogs.md"
+   link: "./posts/blogs.md"
  - name: "Resume"
    link: "resume.pdf"
