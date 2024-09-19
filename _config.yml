@@ -20,5 +20,7 @@ nav:
    link: "/index"
  - name: "Blogs"
    link: "/blogs"
+ - name: "Blogs2"
+   link: "/posts/blogs"
  - name: "Resume"
    link: "/resume.pdf"
