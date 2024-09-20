@@ -10,13 +10,13 @@ I am currently an **MSc. student** at [EPFL](https://epfl.ch) in Data Science an
 Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) as a **Research Student Assistant** supervised by [Frédéric Kaplan](https://people.epfl.ch/frederic.kaplan?lang=en). In the past, I completed my BSc. in Computer Engineering at [Politecnico di Torino](https://www.google.com/search?client=safari&rls=en&q=politecnico+di+torino&ie=UTF-8&oe=UTF-8) and have done a 6 month internship as a **Data Analyst** at [Fater](https://www.fatergroup.com/en) supervised by [Salvatore Croce](https://www.researchgate.net/profile/Salvatore-Croce).
 
 <p align="left">
-  <a href="mailto:jakhongir.saydaliev@epfl.ch" target="_blank">
+  <a href="mailto:jakhongir.saydaliev@epfl.ch">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width:20px; height:20px;" />
   </a>
-  <a href="https://github.com/Jakhongir0103" target="_blank">
+  <a href="https://github.com/Jakhongir0103">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width:20px; height:20px;" />
   </a>
-  <a href="https://linkedin.com/in/jakhongir-saydaliev-0103" target="_blank">
+  <a href="https://linkedin.com/in/jakhongir-saydaliev-0103">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width:20px; height:20px;" />
   </a>
 </p>
@@ -78,7 +78,7 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 ## <span class="section-bar"></span> External Activities
 1. **[Jon and John](https://www.youtube.com/@jonandjohn7726), YouTube**. A YouTube channel about Italian Culture, and studying in Italy. Now I mostly do interviews with the people in AI.
 2. **[Jon and John](https://t.me/Study_in_Italy_SH), Telegram**. An Uzbek community I co-founded back in Italy to bring together Uzbek Students in Italy.
-3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now ran by Muslimjon Nabijonov.
+3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now ran by [Muslimjon Nabijonov](https://t.me/italiyavamuslimjon).
 4. **[Jakhongir Saydaliev](t.me/jakhongir_saydaliev), Telegram**. A personal Telegram channel where I share my thoughts, experiences and knowledge (in Uzbek).
 
 ---
