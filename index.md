@@ -25,17 +25,17 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 
 ## <span class="section-bar"></span> Education
 
-1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present</span>
-2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">2019-2023</span>
+1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">Sep. 2023 - Present</span>
+2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Sep. 2019 - Jul. 2023</span>
 
 ---
 
 ## <span class="section-bar"></span> Experience
 
-1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">June, 2024 - Present.</span> <br> Multilingual Model Training
-2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">February, 2024 - September, 2024.</span> <br> Text-to-SQL system and LLM agents development.
-3. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">October, 2022 - May, 2023.</span>
-4. **IoT Engineer**. [LINKS](https://linksfoundation.com/en/). Italy. <span class="dates">October, 2021 - February, 2022.</span>
+1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">Jun. 2024 - Present.</span> <br> Multilingual Model Training
+2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">Feb. 2024 - Sep. 2024.</span> <br> Text-to-SQL system and LLM agents development.
+3. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">Nov. 2022 - May. 2023.</span>
+4. **IoT Engineer**. [LINKS](https://linksfoundation.com/en/). Italy. <span class="dates">Oct. 2021 - Feb. 2022.</span>
 
 --- 
 
@@ -86,31 +86,31 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 ## <span class="section-bar"></span> News
 <table>
   <tr>
-    <td>Sep 2024</td>
+    <td>Sep. 2024</td>
     <td><a href="https://deepfake-minihackaton.my.canva.site/">Participated</a> in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/">DeepFake Hackaton</a></td>
   </tr>
   <tr>
-    <td>Jun 2024</td>
+    <td>Jun. 2024</td>
     <td>Started Summer Research Internship in <a href="https://nlp.epfl.ch">NLP Lab</a> on Multilingual Model Training project by <a href="https://www.swiss-ai.org">Swiss AI Initiative</a></td>
   </tr>
   <tr>
-    <td>May 2024</td>
+    <td>May. 2024</td>
     <td>Presented my LLM Agents project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
   </tr>
   <tr>
-    <td>Apr 2024</td>
+    <td>Apr. 2024</td>
     <td><a href="https://github.com/Jakhongir0103/Coding_interview_bot">Participated</a> in <a href="https://www.linkedin.com/posts/lauzhack_hackathon-llms-genai-activity-7189548347953750016-CaxD/">LLM Hackathon</a></td>
   </tr>
   <tr>
-    <td>Apr 2024</td>
+    <td>Apr. 2024</td>
     <td>Presented my text-to-SQL project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
   </tr>
   <tr>
-    <td>Mar 2024</td>
+    <td>Mar. 2024</td>
     <td><a href="https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0">Participated</a> in <a href="https://2024.appliedmldays.org">AMLD 2024</a></td>
   </tr>
   <tr>
-    <td>Feb 2024</td>
+    <td>Feb. 2024</td>
     <td>Started Student Research Assistantship in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a> on LLM QA system project by <a href="https://www.epfl.ch/research/domains/venice-time-machine/">Venice Time Machine</a></td>
   </tr>
 </table>
