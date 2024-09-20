@@ -78,7 +78,7 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 ## <span class="section-bar"></span> External Activities
 1. **[Jon and John](https://www.youtube.com/@jonandjohn7726), YouTube**. A YouTube channel about Italian Culture, and studying in Italy. Now I mostly do interviews with the people in AI.
 2. **[Jon and John](https://t.me/Study_in_Italy_SH), Telegram**. An Uzbek community I co-founded back in Italy to bring together Uzbek Students in Italy.
-3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now ran by [Muslimjon Nabijonov](https://t.me/italiyavamuslimjon).
+3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now run by [Muslimjon Nabijonov](https://t.me/italiyavamuslimjon).
 4. **[Jakhongir Saydaliev](t.me/jakhongir_saydaliev), Telegram**. A personal Telegram channel where I share my thoughts, experiences and knowledge (in Uzbek).
 
 ---
