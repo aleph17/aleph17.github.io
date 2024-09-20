@@ -3,7 +3,7 @@ layout: blog
 ---
 <span class="post-title">Boost Your Tech Channel with A Numbers-Backed Analysis</span>
 
-![thumbnail](/_imgs/youtube_analysis_1.png)
+![thumbnail](/imgs/youtube_analysis_1.png)
 
 >*Since its launch in 2005, YouTube has grown into a massive platform for content creation, especially in the tech niche. But how can tech content creators stand out and thrive on YouTube in 2023? What are the best practices and strategies to attract and retain viewers and subscribers?*
 

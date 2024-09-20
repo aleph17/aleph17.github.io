@@ -17,8 +17,8 @@ We used two datasets to train and evaluate our model for stance detection. The f
 
 We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLMs) for stance detection: MISTRAL-7B, LLAMA-2-7B, and PHI-1.5. We experimented with different values of the LoRA rank hyper-parameter and different proportions of the training set. We also trained and tested our models on both datasets. We found that MISTRAL-7B, was the best performing model for our task, and that it benefited from fine-tuning on both datasets with LoRA rank=16. We also compared the zero-shot performance of MISTRAL-7B with the other LLMs and showed that it was superior to them. Our results demonstrate the effectiveness of LoRA and MISTRAL-7B for stance detection. The performance of the best model (rank=16, trained on both datasets) are reported in the table:
 
-<table border="1">
-  <tr>
+<table border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
     <th></th>
     <th>Abortion</th>
     <th>Atheism</th>
@@ -28,55 +28,55 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <th>SemEval2016 (weighted avg)</th>
     <th>IBM-debater (weighted avg)</th>
   </tr>
-  <tr>
-    <td>BERTweet (baseline)</td>
-    <td>0.65</td>
-    <td>0.76</td>
-    <td>0.79</td>
-    <td>0.65</td>
-    <td>0.69</td>
-    <td>0.70</td>
-    <td>-</td>
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">BERTweet (baseline)</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.65</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.76</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.79</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.65</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.69</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.70</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
   </tr>
-  <tr>
-    <td>RoBERTa (baseline)</td>
-    <td>0.54</td>
-    <td><b>0.79</b></td>
-    <td>0.80</td>
-    <td>0.64</td>
-    <td>0.71</td>
-    <td>0.68</td>
-    <td>-</td>
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">RoBERTa (baseline)</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.54</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.79</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.80</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.64</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.71</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.68</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
   </tr>
-  <tr>
-    <td>StanceBERTa (baseline)</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>0.61</td>
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">StanceBERTa (baseline)</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">-</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.61</td>
   </tr>
-  <tr>
-    <td>MISTRAL-7B-INSTRUCT-V0.1 (zero-shot)</td>
-    <td>0.54</td>
-    <td>0.33</td>
-    <td>0.55</td>
-    <td>0.57</td>
-    <td>0.66</td>
-    <td>0.54</td>
-    <td>0.44</td>
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">MISTRAL-7B-INSTRUCT-V0.1 (zero-shot)</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.54</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.33</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.55</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.57</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.66</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.54</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.44</td>
   </tr>
-  <tr>
-    <td>MISTRAL-7B fine-tuned (ours)*</td>
-    <td><b>0.71</b></td>
-    <td>0.73</td>
-    <td><b>0.84</b></td>
-    <td><b>0.76</b></td>
-    <td><b>0.80</b></td>
-    <td><b>0.76</b></td>
-    <td><b>0.92</b></td>
+  <tr border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">MISTRAL-7B fine-tuned (ours)*</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.71</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center">0.73</td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.84</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.76</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.80</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.76</b></td>
+    <td border="1"; padding-left="5px"; padding-right="5px"; font-size="14px"; text-align="center"><b>0.92</b></td>
   </tr>
 </table>
 
