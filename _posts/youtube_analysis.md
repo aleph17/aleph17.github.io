@@ -3,6 +3,8 @@ layout: blog
 ---
 <span class="post-title"></span> Boost Your Tech Channel with A Numbers-Backed Analysis
 
+![thumbnail](/_imgs/youtube_analysis_1.png)
+
 >*Since its launch in 2005, YouTube has grown into a massive platform for content creation, especially in the tech niche. But how can tech content creators stand out and thrive on YouTube in 2023? What are the best practices and strategies to attract and retain viewers and subscribers?*
 
 ## <span class="section-bar"></span> Abstract
@@ -23,16 +25,12 @@ Throughout our analysis, we used various methods to analyze the data from the Yo
 
 To wrap up our analysis of YouTube tech channels, we present the main results:
 
-Optimal Video Length: Videos between 16 minutes and 2.7 hours are ideal to deliver valuable content and keep viewers interested. However, videos longer than 40 minutes are usually reserved for live events.
-
-Upload Frequency: Regular and frequent video uploads with low variation lead to higher success and growth rates. Keeping up high regularity is vital for channels with 500k to 1M subscribers to sustain rapid growth.
-
-Reviewed Product Type: The variety of reviewed product types does not affect channel growth significantly. Successful channels that cover a wide range of products tend to achieve the most success with videos on Phones, Desktop setups, Laptops, and Headphones.
-
-Title Sentiment: Positive sentiments in video titles could be beneficial. Channels with positive language can increase views by up to a third compared to neutral titles. However, it is important to note that other factors, like thumbnails, could also affect the outcomes, which we did not have access to.
-
-Product Release Events: Tech product releases, not only from big brands, offer a golden opportunity for channel growth. Talking about leaks and rumors before the launch creates excitement, and continuing coverage for a few months after the release is essential to attract the wider audience’s interest.
+- **Optimal Video Length**: Videos between 16 minutes and 2.7 hours are ideal to deliver valuable content and keep viewers interested. However, videos longer than 40 minutes are usually reserved for live events.
+- **Upload Frequency**: Regular and frequent video uploads with low variation lead to higher success and growth rates. Keeping up high regularity is vital for channels with 500k to 1M subscribers to sustain rapid growth.
+- **Reviewed Product Type**: The variety of reviewed product types does not affect channel growth significantly. Successful channels that cover a wide range of products tend to achieve the most success with videos on Phones, Desktop setups, Laptops, and Headphones.
+- **Title Sentiment**: Positive sentiments in video titles could be beneficial. Channels with positive language can increase views by up to a third compared to neutral titles. However, it is important to note that other factors, like thumbnails, could also affect the outcomes, which we did not have access to.
+- **Product Release Events**: Tech product releases, not only from big brands, offer a golden opportunity for channel growth. Talking about leaks and rumors before the launch creates excitement, and continuing coverage for a few months after the release is essential to attract the wider audience’s interest.
 
 ## <span class="section-bar"></span> Disclaimer
 
-We remind the readers to not follow the guidelines blindly, but to experiment and innovate with their own content. Moreover, we acknowledge that the analysis may become outdated quickly, as YouTube is constantly changing and evolving. We do not claim to have complete or accurate information about YouTube or its content creators. The goal of this blog is to shortly present our insights from the analysis. The full data story can be read in [this](https://jakhongir0103.github.io/datastory/) link and the code can be found [here](https://github.com/epfl-ada/ada-2023-project-datasquad2023).
+We remind the readers to not follow the guidelines blindly, but to experiment and innovate with their own content. Moreover, we acknowledge that the analysis may become outdated quickly, as YouTube is constantly changing and evolving. We do not claim to have complete or accurate information about YouTube or its content creators. The goal of this blog is to shortly present our insights from the analysis. The full data story can be found [here](https://jakhongir0103.github.io/datastory/) and the code [here](https://github.com/epfl-ada/ada-2023-project-datasquad2023).
