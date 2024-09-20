@@ -29,7 +29,7 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <th style="border:1px; padding: 8px 5px; text-align: center;">IBM-debater (weighted avg)</th>
   </tr>
   <tr>
-    <td style="border:1px; padding: 8px 5px; text-align: center;">BERTweet (baseline)</td>
+    <td style="border:1px; padding: 8px 5px; text-align: left;">BERTweet (baseline)</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.65</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.76</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.79</td>
@@ -39,7 +39,7 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <td style="border:1px; padding: 8px 5px; text-align: center;">-</td>
   </tr>
   <tr>
-    <td style="border:1px; padding: 8px 5px; text-align: center;">RoBERTa (baseline)</td>
+    <td style="border:1px; padding: 8px 5px; text-align: left;">RoBERTa (baseline)</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.54</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;"><b>0.79</b></td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.80</td>
@@ -49,7 +49,7 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <td style="border:1px; padding: 8px 5px; text-align: center;">-</td>
   </tr>
   <tr>
-    <td style="border:1px; padding: 8px 5px; text-align: center;">StanceBERTa (baseline)</td>
+    <td style="border:1px; padding: 8px 5px; text-align: left;">StanceBERTa (baseline)</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">-</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">-</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">-</td>
@@ -59,7 +59,7 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.61</td>
   </tr>
   <tr>
-    <td style="border:1px; padding: 8px 5px; text-align: center;">MISTRAL-7B-INSTRUCT-V0.1 (zero-shot)</td>
+    <td style="border:1px; padding: 8px 5px; text-align: left;">MISTRAL-7B-INSTRUCT-V0.1 (zero-shot)</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.54</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.33</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.55</td>
@@ -69,7 +69,7 @@ We used Low-Rank Adaptation (LoRA) to fine-tune three large language models (LLM
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.44</td>
   </tr>
   <tr>
-    <td style="border:1px; padding: 8px 5px; text-align: center;">MISTRAL-7B fine-tuned (ours)*</td>
+    <td style="border:1px; padding: 8px 5px; text-align: left;">MISTRAL-7B fine-tuned (ours)*</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;"><b>0.71</b></td>
     <td style="border:1px; padding: 8px 5px; text-align: center;">0.73</td>
     <td style="border:1px; padding: 8px 5px; text-align: center;"><b>0.84</b></td>
