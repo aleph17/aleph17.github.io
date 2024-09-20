@@ -1,7 +1,7 @@
 ---
 layout: blog
 ---
-<span class="post-title"></span> Boost Your Tech Channel with A Numbers-Backed Analysis
+<span class="post-title">Boost Your Tech Channel with A Numbers-Backed Analysis</span>
 
 ![thumbnail](/_imgs/youtube_analysis_1.png)
 

@@ -41,7 +41,7 @@ Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) 
 
 ## <span class="section-bar"></span> Teaching Experience
 
-1. **Student Teaching Assistant**. [Applied Data Analysis](https://epfl-ada.github.io/teaching/fall2024/cs401/). EPFL. <span class="dates">Fall 2024.</span>
+1. **Student Teaching Assistant**. [Applied Data Analysis [CS-433]](https://epfl-ada.github.io/teaching/fall2024/cs401/). EPFL. <span class="dates">Fall 2024.</span>
 
 ---
 
