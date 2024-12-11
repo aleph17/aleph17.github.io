@@ -84,10 +84,8 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 |----------------|-----------------------------------------------------------------------------------------------------------|
 | Nov. 2024      | Participated in Meta's GenAI conference.                                                                  |
 | Oct. 2024      | Participated in Data Challenge.                                                                           |
-| Sep. 2024      | [Participated](https://deepfake-minihackaton.my.canva.site/) in [DeepFake Hackathon](https://memento.epfl.ch/event/deepfake-mini-hackathon/). |
 | Aug. 2024      | Joined the LiGHT lab.                                                                                     |
-| Jun. 2024      | Started Summer Research Internship in [NLP Lab](https://nlp.epfl.ch) on Multilingual Model Training project by [Swiss AI Initiative](https://www.swiss-ai.org). |
-| May. 2024      | Participated in AI Summer School. Presented my LLM Agents project in [DHLAB](https://www.epfl.ch/labs/dhlab/). |
-| Apr. 2024      | Participated in ETH Quantum Hackathon. [Participated](https://github.com/Jakhongir0103/Coding_interview_bot) in [LLM Hackathon](https://www.linkedin.com/posts/lauzhack_hackathon-llms-genai-activity-7189548347953750016-CaxD/). Presented my text-to-SQL project in [DHLAB](https://www.epfl.ch/labs/dhlab/). |
+| May. 2024      | Participated in AI Summer School. |
+| Apr. 2024      | Participated in ETH Quantum Hackathon. |
 | Mar. 2024      | [Participated](https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0) in [AMLD 2024](https://2024.appliedmldays.org). |
 | Nov. 2023      | Participated in Quantum Oracles hackathon.                                                                |
