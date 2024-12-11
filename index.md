@@ -5,9 +5,7 @@ layout: main
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently an **MSc. student** at [EPFL](https://epfl.ch) in Data Science and a **Research Student Assistant** at [NLP lab](https://nlp.epfl.ch) supervised by prof. [Antoine Bosselut](https://atcbosselut.github.io/). 
-
-Previously, I have been working in the [DHLAB](https://www.epfl.ch/labs/dhlab/) as a **Research Student Assistant** supervised by [Frédéric Kaplan](https://people.epfl.ch/frederic.kaplan?lang=en). In the past, I completed my BSc. in Computer Engineering at [Politecnico di Torino](https://www.google.com/search?client=safari&rls=en&q=politecnico+di+torino&ie=UTF-8&oe=UTF-8) and have done a 6 month internship as a **Data Analyst** at [Fater](https://www.fatergroup.com/en) supervised by [Salvatore Croce](https://www.researchgate.net/profile/Salvatore-Croce).
+I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://nlp.epfl.ch](https://www.yale-light.org/)) supervised by prof. [Mary-Anne Hartley]([https://atcbosselut.github.io/](https://medicine.yale.edu/profile/mary-anne-hartley/)). 
 
 <p align="left">
   <a href="mailto:jakhongir.saydaliev@epfl.ch">
