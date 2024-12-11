@@ -80,12 +80,33 @@ I am currently a **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](h
 ---
 
 ## <span class="section-bar"></span> News
-| Date           | Activity                                                                                                   |
-|----------------|-----------------------------------------------------------------------------------------------------------|
-| Nov. 2024      | Participated in Meta's GenAI conference.                                                                  |
-| Oct. 2024      | Participated in Data Challenge.                                                                           |
-| Aug. 2024      | Joined the LiGHT lab.                                                                                     |
-| May. 2024      | Participated in AI Summer School. |
-| Apr. 2024      | Participated in ETH Quantum Hackathon. |
-| Mar. 2024      | Participated in AMLD 2024. |
-| Nov. 2023      | Participated in Quantum Oracles hackathon.                                                                |
+<table>
+  <tr>
+    <td>Nov. 2024</td>
+    <td>Participated in Meta's GenAI conference.</td>
+  </tr>
+  <tr>
+    <td>Oct. 2024</td>
+    <td>Participated in Data Challenge.</td>
+  </tr>
+  <tr>
+    <td>Aug. 2024</td>
+    <td>Joined the LiGHT lab.</td>
+  </tr>
+  <tr>
+    <td>May. 2024</td>
+    <td>Participated in AI Summer School.</td>
+  </tr>
+  <tr>
+    <td>Apr. 2024</td>
+    <td>Participated in ETH Quantum Hackathon.</td>
+  </tr>
+  <tr>
+    <td>Mar. 2024</td>
+    <td>Participated in AMLD 2024.</td>
+  </tr>
+  <tr>
+    <td>Nov. 2023</td>
+    <td>Participated in Quantum Oracles hackathon.</td>
+  </tr>
+</table>
