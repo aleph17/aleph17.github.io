@@ -69,9 +69,9 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 ---
 
 ## <span class="section-bar"></span> External Activities
-1. **[Educational Advisor](https://t.me/StudentHelpItaly)**. Volunteer at StudentHelp for Central Asian students transitioning to European universities.
+1. **Educational Advisor**. Volunteer at [StudentHelp](https://t.me/StudentHelpItaly) for Central Asian students transitioning to European universities.
 
-2. **[Self-made philosopher](https://t.me/inshorter)**. Love reading thought-intensive books and keep a blog for my thoughts.
+2. **Self-made philosopher**. Love reading thought-intensive books and keep a [blog](https://t.me/inshorter) for my thoughts.
 
 3. **Language learner**. English (C2 [IELTS 8.0](https://drive.google.com/file/d/187g0toTuzfwWyZoiEZ4tScRzL2aY58Nq/view?usp=sharing)), Russian (C1+), Italian (B1). Currently learning Turkish (A1) and Arabic (A1).
 
