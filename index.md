@@ -87,5 +87,5 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 | Aug. 2024      | Joined the LiGHT lab.                                                                                     |
 | May. 2024      | Participated in AI Summer School. |
 | Apr. 2024      | Participated in ETH Quantum Hackathon. |
-| Mar. 2024      | [Participated](https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0) in [AMLD 2024](https://2024.appliedmldays.org). |
+| Mar. 2024      | Participated in [AMLD 2024](https://2024.appliedmldays.org). |
 | Nov. 2023      | Participated in Quantum Oracles hackathon.                                                                |
