@@ -52,22 +52,30 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 
 
 ## <span class="section-bar"></span> Independent Learning
-1. **CS-612.** Topics in NLP. [[webpage](https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612)]
-2. **CS-552.** Modern NLP. [[webpage](https://edu.epfl.ch/coursebook/en/modern-natural-language-processing-CS-552)]
-3. **CS-456.** Artificial Neural Networks and Reinforcement Learning. [[github](https://github.com/Jakhongir0103/Artificial-NN_and_RL), [webpage](https://edu.epfl.ch/coursebook/en/deep-reinforcement-learning-CS-456)]
-4. **CS-433.** Machine Learning. [[github](https://github.com/Jakhongir0103/Machine-Learning_EPFL), [webpage](https://www.epfl.ch/labs/mlo/machine-learning-cs-433-2023/)]
-5. **CS-401.** Applied Data Analysis. [[github](https://github.com/Jakhongir0103/Applied-Data-Analysis_EPFL), [webpage](https://epfl-ada.github.io/teaching/fall2023/cs401/)]
-6. **EE-451.** Image Analysis and Pattern Recognition. [[webpage](https://edu.epfl.ch/coursebook/en/image-analysis-and-pattern-recognition-EE-451)]
-7. **EE-556.** Mathematics of data: from theory to computation. [[webpage](https://edu.epfl.ch/coursebook/en/mathematics-of-data-from-theory-to-computation-EE-556)]
-8. **CS-423.** Distributed Information Systems. [[webpage](https://edu.epfl.ch/coursebook/en/distributed-information-systems-CS-423)]
+1. **[Deep Learning for Computer Vision](https://github.com/aleph17/cs231n)**. Stanford Online
+
+2. **[Machine Learning](https://coursera.org/verify/specialization/EQK94P2236NR)**. Stanford Online
+
+3. **[Data Science](https://drive.google.com/drive/folders/1GaDuIVe9gUTxDT-hVQuBrO8uhJqlO5_H?usp=drive_link)**. Kaggle
+
+4. **[Applied Probability](https://drive.google.com/file/d/13lU3xfmI12Z88l9tEWb4w-F8dSRaVrkd/view?usp=sharing%20-)**. MIT OpenCourseWare
+
+5. **[Linear Algebra](https://drive.google.com/file/d/1Ibgi8zKDHEeeuuIBBeV1oObm8PBLoPdq/view?usp=sharing)**. MIT OpenCourseWare
+
+6. **[Entrepreneurship](https://coursera.org/verify/specialization/75F3XIG0IMUF)**. University of Pennsylvania
+
+7. **[Intro to Quantum Computing](https://drive.google.com/file/d/1XlsxQS0pzdEUZvcIVNEF4eA2m0XKp4Ij/view?usp=sharing)**. Google Quantum AI & QxQ
 
 ---
 
 ## <span class="section-bar"></span> External Activities
-1. **[Jon and John](https://www.youtube.com/@jonandjohn7726), YouTube**. A YouTube channel about Italian Culture, and studying in Italy. Now I mostly do interviews with the people in AI.
-2. **[Jon and John](https://t.me/Study_in_Italy_SH), Telegram**. An Uzbek community I co-founded back in Italy to bring together Uzbek Students in Italy.
-3. **[Student Help](https://www.youtube.com/@studenthelp2156)**. An education consultancy service I started with friend. Now run by [Muslimjon Nabijonov](https://t.me/italiyavamuslimjon).
-4. **[Jakhongir Saydaliev](t.me/jakhongir_saydaliev), Telegram**. A personal Telegram channel where I share my thoughts, experiences and knowledge (in Uzbek).
+1. **[Educational Advisor](https://t.me/StudentHelpItaly)**. Volunteer at StudentHelp for Central Asian students transitioning to European universities.
+
+2. **[Self-made philosopher](https://t.me/inshorter)**. Love reading thought-intensive books and keep a blog for my thoughts.
+
+3. **Language learner**. English (C2 [IELTS 8.0](https://drive.google.com/file/d/187g0toTuzfwWyZoiEZ4tScRzL2aY58Nq/view?usp=sharing)), Russian (C1+), Italian (B1). Currently learning Turkish (A1) and Arabic (A1).
+
+4. **Sports enthusiast**. Gym, running, ping pong.
 
 ---
 
