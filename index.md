@@ -24,7 +24,7 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 ## <span class="section-bar"></span> Education
 
 1. **Visiting Student**. EPFL. Lausanne, Switzerland. <span class="dates">Aug. 2024 - Present</span>
-2.**AI Summer School Participant**. Texas A&M @Qatar. Doha, Qatar. <span class="dates">May. 2024 - June. 2024</span>
+2. **AI Summer School Participant**. Texas A&M @Qatar. Doha, Qatar. <span class="dates">May. 2024 - June. 2024</span>
 3. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Oct. 2022 - Present</span>
 
 ---
