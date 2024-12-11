@@ -33,7 +33,7 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 
 1. **Research Intern**. [LiGHT lab](https://www.yale-light.org/). Yale & EPFL, Switzerland. <span class="dates">Jun. 2024 - Present.</span> <br> 
 2. **Research Assistant**. [Fabris Lab](https://www.epfl.ch/labs/dhlab/). PoliTO, Italy. <span class="dates">Sep. 2023 - Jul. 2024.</span> <br> 
-3. **SAT & Math teacher - promoted - Head of Research and Development**. [Sodiq Academy](https://sodiqacademy.uz/). Italy. <span class="dates">Aug. 2019 - Sep. 2022.</span>
+3. **SAT & Math teacher - promoted - Head of Research and Development**. [Sodiq Academy](https://sodiqacademy.uz/). Tashkent, Uzbekistan. <span class="dates">Aug. 2019 - Sep. 2022.</span>
 
 --- 
 
