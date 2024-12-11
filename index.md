@@ -80,33 +80,14 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 ---
 
 ## <span class="section-bar"></span> News
-<table>
-  <tr>
-    <td>Sep. 2024</td>
-    <td><a href="https://deepfake-minihackaton.my.canva.site/">Participated</a> in <a href="https://memento.epfl.ch/event/deepfake-mini-hackathon/">DeepFake Hackaton</a></td>
-  </tr>
-  <tr>
-    <td>Jun. 2024</td>
-    <td>Started Summer Research Internship in <a href="https://nlp.epfl.ch">NLP Lab</a> on Multilingual Model Training project by <a href="https://www.swiss-ai.org">Swiss AI Initiative</a></td>
-  </tr>
-  <tr>
-    <td>May. 2024</td>
-    <td>Presented my LLM Agents project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
-  </tr>
-  <tr>
-    <td>Apr. 2024</td>
-    <td><a href="https://github.com/Jakhongir0103/Coding_interview_bot">Participated</a> in <a href="https://www.linkedin.com/posts/lauzhack_hackathon-llms-genai-activity-7189548347953750016-CaxD/">LLM Hackathon</a></td>
-  </tr>
-  <tr>
-    <td>Apr. 2024</td>
-    <td>Presented my text-to-SQL project in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a></td>
-  </tr>
-  <tr>
-    <td>Mar. 2024</td>
-    <td><a href="https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0">Participated</a> in <a href="https://2024.appliedmldays.org">AMLD 2024</a></td>
-  </tr>
-  <tr>
-    <td>Feb. 2024</td>
-    <td>Started Student Research Assistantship in <a href="https://www.epfl.ch/labs/dhlab/">DHLAB</a> on LLM QA system project by <a href="https://www.epfl.ch/research/domains/venice-time-machine/">Venice Time Machine</a></td>
-  </tr>
-</table>
+| Date           | Activity                                                                                                   |
+|----------------|-----------------------------------------------------------------------------------------------------------|
+| Nov. 2024      | Participated in Meta's GenAI conference.                                                                  |
+| Oct. 2024      | Participated in Data Challenge.                                                                           |
+| Sep. 2024      | [Participated](https://deepfake-minihackaton.my.canva.site/) in [DeepFake Hackathon](https://memento.epfl.ch/event/deepfake-mini-hackathon/). |
+| Aug. 2024      | Joined the LiGHT lab.                                                                                     |
+| Jun. 2024      | Started Summer Research Internship in [NLP Lab](https://nlp.epfl.ch) on Multilingual Model Training project by [Swiss AI Initiative](https://www.swiss-ai.org). |
+| May. 2024      | Participated in AI Summer School. Presented my LLM Agents project in [DHLAB](https://www.epfl.ch/labs/dhlab/). |
+| Apr. 2024      | Participated in ETH Quantum Hackathon. [Participated](https://github.com/Jakhongir0103/Coding_interview_bot) in [LLM Hackathon](https://www.linkedin.com/posts/lauzhack_hackathon-llms-genai-activity-7189548347953750016-CaxD/). Presented my text-to-SQL project in [DHLAB](https://www.epfl.ch/labs/dhlab/). |
+| Mar. 2024      | [Participated](https://drive.google.com/drive/folders/1teC1REyTPTpRIVsZiywHxBddBd7KoKE0) in [AMLD 2024](https://2024.appliedmldays.org). |
+| Nov. 2023      | Participated in Quantum Oracles hackathon.                                                                |
