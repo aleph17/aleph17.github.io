@@ -5,7 +5,7 @@ layout: main
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://www.yale-light.org/]) supervised by prof. [Mary-Anne Hartley]([https://medicine.yale.edu/profile/mary-anne-hartley/]). 
+I am currently a **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://www.yale-light.org/]) supervised by prof. [Mary-Anne Hartley]([https://medicine.yale.edu/profile/mary-anne-hartley/]). 
 
 <p align="left">
   <a href="mailto:mukhammadali.sayfiddinov@student.polito.it">
