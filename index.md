@@ -5,16 +5,16 @@ layout: main
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://nlp.epfl.ch](https://www.yale-light.org/)) supervised by prof. [Mary-Anne Hartley]([https://atcbosselut.github.io/](https://medicine.yale.edu/profile/mary-anne-hartley/)). 
+I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://www.yale-light.org/]) supervised by prof. [Mary-Anne Hartley]([https://medicine.yale.edu/profile/mary-anne-hartley/]). 
 
 <p align="left">
-  <a href="mailto:jakhongir.saydaliev@epfl.ch">
+  <a href="mailto:mukhammadali.sayfiddinov@student.polito.it">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width:20px; height:20px;" />
   </a>
-  <a href="https://github.com/Jakhongir0103">
+  <a href="https://github.com/aleph17">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" style="width:20px; height:20px;" />
   </a>
-  <a href="https://linkedin.com/in/jakhongir-saydaliev-0103">
+  <a href="https://www.linkedin.com/in/mukali/">
     <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="width:20px; height:20px;" />
   </a>
 </p>
@@ -23,25 +23,18 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 
 ## <span class="section-bar"></span> Education
 
-1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">Sep. 2023 - Present</span>
-2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Sep. 2019 - Jul. 2023</span>
+1. **Visiting Student**. EPFL. Lausanne, Switzerland. <span class="dates">Aug. 2024 - Present</span>
+2. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Oct. 2022 - Present</span>
 
 ---
 
 ## <span class="section-bar"></span> Experience
 
-1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">Jun. 2024 - Present.</span> <br> Multilingual Model Training
-2. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">Feb. 2024 - Sep. 2024.</span> <br> Text-to-SQL system and LLM agents development.
-3. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">Nov. 2022 - May. 2023.</span>
-4. **IoT Engineer**. [LINKS](https://linksfoundation.com/en/). Italy. <span class="dates">Oct. 2021 - Feb. 2022.</span>
+1. **Research Intern**. [LiGHT lab](https://www.yale-light.org/). Yale & EPFL, Switzerland. <span class="dates">Jun. 2024 - Present.</span> <br> 
+2. **Research Assistant**. [Fabris Lab](https://www.epfl.ch/labs/dhlab/). PoliTO, Italy. <span class="dates">Sep. 2023 - Jul. 2024.</span> <br> 
+3. **SAT & Math teacher - promoted - Head of Research and Development**. [Sodiq Academy](https://sodiqacademy.uz/). Italy. <span class="dates">Aug. 2019 - Sep. 2022.</span>
 
 --- 
-
-## <span class="section-bar"></span> Teaching Experience
-
-1. **Student Teaching Assistant**. [Applied Data Analysis [CS-433]](https://epfl-ada.github.io/teaching/fall2024/cs401/). EPFL. <span class="dates">Fall 2024.</span>
-
----
 
 ## <span class="section-bar"></span> Projects
 1. **LLM Training with SFT, DPO, and RAG**. Instruction-Tuned Galactica-1.3B model on Scientific MCQA task using SFT and DPO, and further tuned in the RAG settings. [[report](https://github.com/Jakhongir0103/sft-dpo-rag-training/blob/main/pdfs/report.pdf)] <br> <span class="tag">#DeepLearning</span> <span class="tag">#MachineLearning</span> <span class="tag">#LLM</span> <span class="tag">#FineTuning</span> <span class="tag">#RAG</span> <span class="tag">#NLP</span>
@@ -53,15 +46,8 @@ I am currently an **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](
 
 ---
 
-## <span class="section-bar"></span> Mini Projects (less than a week)
-1. **Gender Classification**. [[code](github.com/Jakhongir0103/Gender_classification_model)] <br> <span class="tag">#DeepLearning</span> <span class="tag">#Classification
-2. **Pneumonia Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/Pneumonia_recognition.ipynb)] <br> <span class="tag">#DeepLearning</span> <span class="tag">#Classification</span>
-3. **Customer Satisfaction Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/Airline_customer_satisfaction.ipynb)] <br> <span class="tag">#MachineLearning</span> <span class="tag">#Classification</span>
-4. **Ticket Price Prediction**. [[code](github.com/Jakhongir0103/ML-DL_projects/blob/main/airplane_ticket_price_prediction.ipynb)] <br><span class="tag">#MachineLearning</span> <span class="tag">#Regression</span>
 
----
-
-## <span class="section-bar"></span> Relevant Courseworks
+## <span class="section-bar"></span> Independent Learning
 1. **CS-612.** Topics in NLP. [[webpage](https://edu.epfl.ch/coursebook/en/topics-in-natural-language-processing-CS-612)]
 2. **CS-552.** Modern NLP. [[webpage](https://edu.epfl.ch/coursebook/en/modern-natural-language-processing-CS-552)]
 3. **CS-456.** Artificial Neural Networks and Reinforcement Learning. [[github](https://github.com/Jakhongir0103/Artificial-NN_and_RL), [webpage](https://edu.epfl.ch/coursebook/en/deep-reinforcement-learning-CS-456)]
