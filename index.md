@@ -5,10 +5,10 @@ layout: main
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](https://www.polito.it/)) in Computer Engineering and a **Research Student Assistant** at [LiGHT lab]([https://www.yale-light.org/]) supervised by prof. [Mary-Anne Hartley]([https://medicine.yale.edu/profile/mary-anne-hartley/]). 
+I am currently a **MSc. student** at [ETH Zurich]([https://ethz.ch](https://www.polito.it/)) in Machine Intelligence and a **Research Student Assistant** at [ETH AI Center]([https://www.ai.ethz.ch/]) supervised by [Imano Schlag]([https://ischlag.github.io/]). 
 
 <p align="left">
-  <a href="mailto:mukhammadali.sayfiddinov@student.polito.it">
+  <a href="mailto:msayfiddinov@student.ethz.ch">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" style="width:20px; height:20px;" />
   </a>
   <a href="https://github.com/aleph17">
@@ -23,48 +23,41 @@ I am currently a **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](h
 
 ## <span class="section-bar"></span> Education
 
-1. **Visiting Student**. EPFL. Lausanne, Switzerland. <span class="dates">Aug. 2024 - Present</span>
-2. **AI Summer School Participant**. Texas A&M @Qatar. Doha, Qatar. <span class="dates">May. 2024 - June. 2024</span>
-3. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Oct. 2022 - Present</span>
+1. **Master's in Computer Science**. ETHZ. Zurich, Switzerland <span class="dates">Sep. 2025 - Present</span>
+2. **Visiting Student**. EPFL. Lausanne, Switzerland. <span class="dates">Aug. 2024 - Dec. 2024</span>
+3. **AI Summer School Participant**. Texas A&M @Qatar. Doha, Qatar. <span class="dates">May. 2024 - June. 2024</span>
+4. **Bachelor's in Computer Engineering**. Politecnico di Torino. Turin, Italy. <span class="dates">Oct. 2022 - Jul. 2025</span>
 
 ---
-
 ## <span class="section-bar"></span> Experience
 
-1. **Research Intern**. [LiGHT lab](https://www.yale-light.org/). Yale & EPFL, Switzerland. <span class="dates">Jun. 2024 - Present.</span> <br> 
-2. **Research Assistant**. [Fabris Lab](https://www.epfl.ch/labs/dhlab/). PoliTO, Italy. <span class="dates">Sep. 2023 - Jul. 2024.</span> <br> 
-3. **SAT & Math teacher - promoted - Head of Research and Development**. [Sodiq Academy](https://sodiqacademy.uz/). Tashkent, Uzbekistan. <span class="dates">Aug. 2019 - Sep. 2022.</span>
+1. **Research Assistant**. [ETH AI Center](https://ai.ethz.ch/). Zurich, Switzerland. <span class="dates">Jul 2025 – Current.</span> <br> 
+2. **Research Intern**. [LiGHT Lab](https://www.light-laboratory.org/). Yale & EPFL. <span class="dates">Aug 2024 – Dec 2024.</span> <br> 
+3. **Research Assistant**. [Fabris Lab](https://fabrislab.com/). Polytechnic of Turin. <span class="dates">Sep 2023 – Jul 2024.</span>
 
 --- 
 
 ## <span class="section-bar"></span> Projects
-1. **[Antibiogo-IHZ](https://github.com/aleph17/Antibiogo--IHZ)**. Tool to assist in antimicrobial resistance testing for low-resource settings. <br> <span class="tag">#DeepLearning</span> <span class="tag">#Healthcare</span> <span class="tag">#AI</span>
+1. **[antibiogo](https://github.com/aleph17/antibiogo)**. Tool to assist in antimicrobial resistance testing for low-resource settings. <br>
+2. **[reval](https://github.com/aleph17/reasoning-eval-apertus)**. Light-weight reasoning evaluation pipeline for Apertus training. <br>
+3. **[FP8](https://github.com/aleph17/ao)**. Stochastic rounding implementation for FP8 in torchao. <br>
+4. **[verl_tooling](https://github.com/aleph17/verl)**. RL training pipeline for Apertus vision tooling. <br>
+5. **[course_projects](https://github.com/aleph17?tab=repositories)**. Course projects for bachelor and master courses taken. <br>
 
-2. **[AMAP](https://github.com/aleph17/AMAP)**. Package to automatically measure nanoparticle dimensions based on TEM images. <br> <span class="tag">#Nanotechnology</span> <span class="tag">#ImageProcessing</span> <span class="tag">#MachineLearning</span>
-
-3. **[ML-Knowledge Distillation](https://github.com/aleph17/ML-KnowledgeDistillation)**. Implementation of knowledge transfer between deep learning models. <br> <span class="tag">#DeepLearning</span> <span class="tag">#KnowledgeDistillation</span> <span class="tag">#AI</span>
-
-4. **[Argifts](https://github.com/aleph17/Argifts-Data-Analysis)**. Data analysis on e-transactions to derive insights for business operations. <br> <span class="tag">#DataAnalysis</span> <span class="tag">#ECommerce</span> <span class="tag">#BusinessInsights</span>
-
-5. **[Uzum](https://github.com/aleph17/Uzum)**. Recommendation system prototype for e-commerce platforms using collaborative filtering. <br> <span class="tag">#RecommendationSystem</span> <span class="tag">#CollaborativeFiltering</span> <span class="tag">#ECommerce</span>
-
----
-
+--
 
 ## <span class="section-bar"></span> Independent Learning
-1. **[Deep Learning for Computer Vision](https://github.com/aleph17/cs231n)**. Stanford Online
+1. **[Machine Learning](https://coursera.org/verify/specialization/EQK94P2236NR)**. Stanford Online
 
-2. **[Machine Learning](https://coursera.org/verify/specialization/EQK94P2236NR)**. Stanford Online
+2. **[Data Science](https://drive.google.com/drive/folders/1GaDuIVe9gUTxDT-hVQuBrO8uhJqlO5_H?usp=drive_link)**. Kaggle
 
-3. **[Data Science](https://drive.google.com/drive/folders/1GaDuIVe9gUTxDT-hVQuBrO8uhJqlO5_H?usp=drive_link)**. Kaggle
+3. **[Applied Probability](https://drive.google.com/file/d/13lU3xfmI12Z88l9tEWb4w-F8dSRaVrkd/view?usp=sharing%20-)**. MIT OpenCourseWare
 
-4. **[Applied Probability](https://drive.google.com/file/d/13lU3xfmI12Z88l9tEWb4w-F8dSRaVrkd/view?usp=sharing%20-)**. MIT OpenCourseWare
+4. **[Linear Algebra](https://drive.google.com/file/d/1Ibgi8zKDHEeeuuIBBeV1oObm8PBLoPdq/view?usp=sharing)**. MIT OpenCourseWare
 
-5. **[Linear Algebra](https://drive.google.com/file/d/1Ibgi8zKDHEeeuuIBBeV1oObm8PBLoPdq/view?usp=sharing)**. MIT OpenCourseWare
+5. **[Entrepreneurship](https://coursera.org/verify/specialization/75F3XIG0IMUF)**. University of Pennsylvania
 
-6. **[Entrepreneurship](https://coursera.org/verify/specialization/75F3XIG0IMUF)**. University of Pennsylvania
-
-7. **[Intro to Quantum Computing](https://drive.google.com/file/d/1XlsxQS0pzdEUZvcIVNEF4eA2m0XKp4Ij/view?usp=sharing)**. Google Quantum AI & QxQ
+6. **[Intro to Quantum Computing](https://drive.google.com/file/d/1XlsxQS0pzdEUZvcIVNEF4eA2m0XKp4Ij/view?usp=sharing)**. Google Quantum AI & QxQ
 
 ---
 
@@ -81,6 +74,22 @@ I am currently a **BEng. student** at [Polytechnic of Turin]([https://epfl.ch](h
 
 ## <span class="section-bar"></span> News
 <table>
+  <tr>
+    <td>Oct. 2025</td>
+    <td>First mention in a research paper - Apertus.</td>
+  </tr>
+  <tr>
+    <td>Sep. 2025</td>
+    <td>Started Master's degree at ETH Zurich.</td>
+  </tr>
+  <tr>
+    <td>Aug. 2025</td>
+    <td>Started RAship at ETH AI Center.</td>
+  </tr>
+  <tr>
+    <td>Jul. 2025</td>
+    <td>Graduated from Politecnico di Torino.</td>
+  </tr>
   <tr>
     <td>Nov. 2024</td>
     <td>Participated in Meta's GenAI conference.</td>
